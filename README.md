@@ -1,6 +1,8 @@
 # ClickUp Clone
 
-
+TO-DO: 
+1. Port Mongoose to Mongodb client to support MongoDb Atlas cloud
+2. 
 
 
 https://user-images.githubusercontent.com/64722310/178110755-409033a1-6685-4d52-af6a-64cefa07f2c9.mp4
